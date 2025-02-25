@@ -1,0 +1,7 @@
+django
+psycopg2
+numpy
+pandas 
+scipy 
+scikit-learn
+python-dotenv
